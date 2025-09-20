@@ -84,6 +84,4 @@ This app provides a classical simulation of this quantum process. It demonstrate
 
 This simulation makes the abstract concept of "unhackable" quantum communication tangible.
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
